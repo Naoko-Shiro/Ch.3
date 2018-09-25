@@ -1,0 +1,10 @@
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\bin\Debug\Ch. 3 Project.exe.config
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\bin\Debug\Ch. 3 Project.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\bin\Debug\Ch. 3 Project.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\bin\Debug\Ch. 3 Project.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\obj\Debug\Ch._3_Project.Form1.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\obj\Debug\Ch._3_Project.Resources.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\obj\Debug\Ch. 3 Project.vbproj.GenerateResource.Cache
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\obj\Debug\Ch. 3 Project.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\obj\Debug\Ch. 3 Project.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\Ch. 3 Project\Ch. 3 Project\obj\Debug\Ch. 3 Project.pdb
